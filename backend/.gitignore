@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Expo / React Native
+.expo/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env

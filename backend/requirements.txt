@@ -1,0 +1,11 @@
+werkzeug
+torch
+torchvision
+timm
+opencv-python
+numpy
+pillow
+flask
+flask-cors
+python-barcode
+pandas

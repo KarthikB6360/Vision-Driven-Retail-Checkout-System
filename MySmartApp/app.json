@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Smart Retail AI",
+    "slug": "smart-retail-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "icon": "./assets/icon.png",
+
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A7C5A"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.karthik.smartretailai",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A7C5A"
+      }
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ]
+  }
+}

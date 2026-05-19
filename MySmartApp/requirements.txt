@@ -1,0 +1,73 @@
+# Core Framework
+expo
+react
+react-native
+
+# Navigation
+@react-navigation/native
+@react-navigation/native-stack
+@react-navigation/bottom-tabs
+
+# Local Storage
+@react-native-async-storage/async-storage
+
+# Networking
+axios
+@react-native-community/netinfo
+
+# Camera & Vision
+expo-camera
+expo-image-picker
+expo-media-library
+
+# Barcode & QR Scanning
+expo-barcode-scanner
+
+# OCR & Bill Text Extraction
+expo-file-system
+expo-document-picker
+
+# Text Processing (ASCII / Encoding)
+text-encoding
+buffer
+
+# Voice Input (Speech to Text)
+expo-av
+expo-audio
+
+# Voice Output (Text to Speech)
+expo-speech
+
+# AI & Intelligence
+openai
+google-generative-ai
+langchain
+
+# Nutrition Intelligence
+nutritionix-api
+usda-food-data-central
+
+# Charts & Behavioral Analytics
+react-native-chart-kit
+victory-native
+
+# UI Components
+react-native-paper
+react-native-vector-icons
+expo-linear-gradient
+
+# PDF / Invoice Handling
+react-native-pdf
+expo-print
+expo-sharing
+
+# Environment & Configuration
+expo-constants
+
+# Gesture & Animation
+react-native-gesture-handler
+react-native-reanimated
+react-native-safe-area-context
+
+# Sensors (Optional)
+expo-sensors

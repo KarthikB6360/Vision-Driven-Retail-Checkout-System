@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "category": "beverages",
+      "items": [
+        "Cocacola",
+        "Frooti",
+        "Maaza",
+        "Paperboat Apple",
+        "Paperboat MixedFruit",
+        "RedBull",
+        "Sprite",
+        "Thumsup",
+        "Tropicana Orange"
+      ]
+    },
+    {
+      "category": "biscuits",
+      "items": [
+        "Hideandseek",
+        "Oreo Double Stuf",
+        "Oreo Strawberry",
+        "Parleg",
+        "Unibic Cashew",
+        "Unibic Choco Chip",
+        "Unibic Honey",
+        "Unibic Oat meal"
+      ]
+    },
+    {
+      "category": "chips_snacks",
+      "items": [
+        "Aloo Bhujia",
+        "Doritos",
+        "Khatta Meetha",
+        "Lays Cream Onion",
+        "Lays Masala",
+        "Lays Salted",
+        "Pringles Peri Peri",
+        "Pringles Pizza",
+        "Too Yummy"
+      ]
+    },
+    {
+      "category": "chocolates",
+      "items": [
+        "Bounty",
+        "Bournville",
+        "Dairy Milk",
+        "Dairy Milk Silk",
+        "Dairy Milk Silk Oreo",
+        "Galaxy",
+        "Kitkat",
+        "Lindt",
+        "Mars",
+        "Perk",
+        "Snickers",
+        "Snickers Almond",
+        "Twix"
+      ]
+    },
+    {
+      "category": "groceries",
+      "items": [
+        "Chanaflour",
+        "Greenmoong",
+        "Idlirava",
+        "Maida",
+        "Rajma",
+        "Sugar",
+        "Toordal"
+      ]
+    },
+    {
+      "category": "health_drinks",
+      "items": [
+        "Boost",
+        "Bournvita",
+        "Horlicks Lite",
+        "Horlicks Women Plus",
+        "Protein X Chocolate",
+        "Protein X Vanilla",
+        "Similaciq"
+      ]
+    },
+    {
+      "category": "personal_care",
+      "items": [
+        "Biotique Honey",
+        "Biotique Papaya",
+        "Body Lotion",
+        "Face Wash",
+        "Garnier Bright"
+      ]
+    },
+    {
+      "category": "sauces_spreads",
+      "items": [
+        "Kissan Jam",
+        "Kissanjam Pineapple",
+        "Kissanketchup Spicy",
+        "Peri peri",
+        "Strifry",
+        "Thousand Island"
+      ]
+    }
+  ]
+}
